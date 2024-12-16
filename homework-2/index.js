@@ -43,6 +43,4 @@ function multiplyNumeric(obj) {
     }
 }
 
-// Task 6
-
 
