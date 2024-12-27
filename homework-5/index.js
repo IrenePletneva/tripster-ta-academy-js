@@ -159,4 +159,4 @@ A.prototype = B.prototype = {};
 let a = new A();
 
 console.log( a instanceof B ); // true
-// скольку A.prototype и B.prototype ссылаются на один и тот же объект {}, оператор instanceof находит совпадение
+//A.prototype и B.prototype ссылаются на один и тот же объект {}, оператор instanceof находит совпадение
